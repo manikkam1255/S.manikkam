@@ -1,0 +1,6 @@
+{
+  "name": "QR-Smart Attendance Office System",
+  "description": "QR-Based Smart Attendance System for Office featuring live camera scanning, badge generation, role-based admin controls, attendance history, and automated academic test suite.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
